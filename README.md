@@ -1,11 +1,11 @@
 # Hotel-Management-System
 Homework week 7 - Software Engineering subject
 
-[x] Lập các sơ đồ use-case bằng UML
-[x] Tạo dự án trên GitHub và đưa các thông tin goals và business objectives vào file README
-[x] Trình bày các user stories vào thành các issue trên GitHub
-[x] Trình bày các Use-case vào các stories
-
+:heavy_check_mark: Lập các sơ đồ use-case bằng UML <br>
+:heavy_check_mark: Tạo dự án trên GitHub và đưa các thông tin goals và business objectives vào file README <br>
+:heavy_check_mark: Trình bày các user stories vào thành các issue trên GitHub <br>
+:heavy_check_mark: Trình bày các Use-case vào các stories <br>
+ 
 ### Goals [G]
 
 - Tạo được phần mềm quản lí khách sạc, phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
